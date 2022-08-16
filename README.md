@@ -63,7 +63,7 @@ To develop the website, we will be using [Next.js](https://nextjs.org/), which i
 - Watch the balance of the DAO Treasury go down 
 
 
-### Technologies Used: 
+### Technologies Used 
 - [Hardhat](https://hardhat.org/)
 - [Solidity](https://soliditylang.org/)
 - [Ethers.js](https://github.com/ethers-io/ethers.js/)
