@@ -35,6 +35,8 @@ You want to allow your NFT holders to create and vote on proposals to use that E
 - Must have completed the [NFT-Collection Tutorial](https://github.com/AzureKn1ght/NFT-Collection)
 - Must have some ETH to give to the DAO Treasury
 
+--- 
+
 ## BUIDL IT
 
 ### Smart Contract Development
