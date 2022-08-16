@@ -49,7 +49,7 @@ We will start off with first creating the smart contracts
 
 ### Frontend Development
 
-After we've successfully developed and deployed our contracts. Now, it's time to build the Frontend interface so users can create and vote on proposals from the website.
+Now, it's time to build the Frontend interface so users can create and vote on proposals from the website.
 
 To develop the website, we will be using [Next.js](https://nextjs.org/), which is a meta-framework built on top of [React](https://reactjs.org/).
 
@@ -74,7 +74,7 @@ To develop the website, we will be using [Next.js](https://nextjs.org/), which i
 
 ## DEPLOY 🚀
 
-What good is a website if you cannot share it with others? Let's deploy the dApp so that we can share it to the world.
+What good is a website if you cannot share it with others? Let's deploy the dApp and share it with the world.
 
 ### Smart Contract 
 https://goerli.etherscan.io/address/0x4Dda85D5Ad5A2a934e69CAAE0f7257d7839DDe4B
